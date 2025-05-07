@@ -1,7 +1,7 @@
 ## Hi there 👋
  
 # 💫 About Me:
-👋🏻Adnan here, a student into tech, design, & AI.<br>🤝 Up for creative tech collabs in automation/education.<br>🧠 Learning Python, ML, & engineering.<br>💬 Chat about AI, tech, growth, or digital products.<br>✨ Aim: 1% daily growth > perfection!
+👋🏻 Adnan here, a student into tech, design, & AI.<br>🤝 Up for creative tech collabs in automation/education.<br>🧠 Learning Python, ML, & engineering.<br>💬 Chat about AI, tech, growth, or digital products.<br>✨ Aim: 1% daily growth > perfection!
 
 
 ## 🌐 Socials:
