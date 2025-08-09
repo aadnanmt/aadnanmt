@@ -1,101 +1,71 @@
+<!-- Profil Header -->
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
+<!-- Social Badges -->
 <div align="center">
-  <a href="https://instagram.com/aayacreator/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo"  />
+  <a href="https://twitter.com/aayacreator" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=0AB6FF&logoColor=white&labelColor=2B1055&style=flat" height="25" alt="twitter logo" />
   </a>
-  <a href="https://instagram.com/aadnanmt/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="25" alt="instagram logo"  />
+  <a href="https://instagram.com/aadnanmt" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=BC13FE&logoColor=white&labelColor=2B1055&style=flat" height="25" alt="instagram logo" />
   </a>
   <a href="mailto:aadnanmtcontact@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=00FFFF&logoColor=white&labelColor=2B1055&style=flat" height="25" alt="gmail logo" />
   </a>
 </div>
 
-###
+---
 
+<h1 align="center" style="color:#00FFFF;">Hey 👋 What's Up?</h1>
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<h2 align="center" style="color:#BC13FE;">👩‍💻 About Me</h2>
 
-###
+<h4 align="center" style="max-width:600px;">
+👋 Hi, I’m Adnan from Indonesia 🇮🇩<br><br>
+🔭 Working as a <span style="color:#00FFFF;">Prompt Engineer</span> & <span style="color:#BC13FE;">Digital Creator</span>.<br>
+📚 Learning <span style="color:#00FFFF;">AI tools</span>, Python programming, and creative prompt design.<br>
+⚡ Love exploring <span style="color:#BC13FE;">AI experiments</span>, building digital products, and sharing tech content for Gen Z.
+</h4>
 
-<h2 align="center">👩‍💻  About Me</h2>
+---
 
-###
-
-<h4 align="center">👋 Hi, I’m Adnan from Indonesia 🇮🇩<br><br>🔭 I’m working as a Prompt Engineer & Digital Creator.<br>📚 I’m currently learning AI tools, Python programming, and creative prompt design.<br>⚡ In my free time I love exploring AI experiments, building digital products, and sharing tech content for Gen Z.</h4>
-
-###
-
-<h2 align="center">🛠 Language and tools :</h2>
-
-###
+<h2 align="center" style="color:#00FFFF;">🛠 Languages & Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go" height="50" alt="go logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="50" alt="firefox logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=notion" height="50" alt="notion logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="50" alt="pycharm logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=md" height="50" alt="markdown logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="50" alt="cloudflare logo"  />
+  <img src="https://skillicons.dev/icons?i=py,js,go,html,css,linux,github,notion,vscode,cloudflare,pycharm,bash,gcp,md" height="50" />
 </div>
 
-###
+---
 
-<h2 align="center">🔥 My Stats :</h2>
-
-###
+<h2 align="center" style="color:#BC13FE;">🔥 My Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadnanmt&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=aadnanmt&locale=en&mode=daily&theme=synthwave&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=aadnanmt&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadnanmt&radius=14&theme=synthwave-84&area=false&order=5&hide_border=true&hide_title=true" height="200" alt="activity-graph graph"  />
+  
+  <!-- Language Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadnanmt&layout=compact&card_width=320&langs_count=5&hide_border=true&title_color=00FFFF&text_color=BC13FE&bg_color=000000&icon_color=BC13FE" height="150" />
+  
+  <!-- Streak Graph Neon -->
+  <img src="https://streak-stats.demolab.com?user=aadnanmt&hide_border=true&border_radius=5&ring=00FFFF&fire=BC13FE&currStreakNum=00FFFF&sideNums=BC13FE&currStreakLabel=00FFFF&sideLabels=BC13FE&dates=7DF9FF&background=000000" height="150" />
+  
+  <!-- Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=aadnanmt&theme=onestar&no-frame=true&column=4&margin-w=10&margin-h=10&title_color=00FFFF&text_color=BC13FE&no-bg=true" height="150" />
+  
+  <!-- Activity Graph Neon -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadnanmt&radius=14&bg_color=000000&color=00FFFF&line=BC13FE&point=00FFFF&area=true&hide_border=true" height="200" />
+  
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadnanmt&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=aadnanmt&locale=en&mode=daily&theme=synthwave&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=aadnanmt&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadnanmt&radius=14&theme=synthwave-84&area=false&order=5&hide_border=true&hide_title=true" height="200" alt="activity-graph graph"  />
-</div>
-
-###
-<img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
+<!-- Pacman Graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadnanmt/aadnanmt/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadnanmt/aadnanmt/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aadnanmt/aadnanmt/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
+
+<img align="right" height="100" src="https://i.imgflip.com/65efzo.gif" />
