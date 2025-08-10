@@ -16,10 +16,6 @@
 
 ###
 
-<img align="left" height="100" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go" height="50" alt="go logo"  />
   <img width="10" />
@@ -51,6 +47,10 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="50" alt="cloudflare logo"  />
 </div>
+
+###
+
+<img align="left" height="100" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
