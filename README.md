@@ -49,13 +49,15 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=debian" height="50" alt="debian logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=discord" height="50" alt="discord"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=mint" height="50" alt="linux mint logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=windows" height="50" alt="windows logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=discord" height="50" alt="discord"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=notion" height="50" alt="notion logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=pycharm" height="50" alt="pycharm logo"  />
   <img width="10" />
