@@ -27,13 +27,21 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="50" alt="firefox logo"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="50" alt="ubuntu logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=debian" height="50" alt="debian logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=discord" height="50" alt="discord"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mint" height="50" alt="linux mint logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=windows" height="50" alt="windows logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=notion" height="50" alt="notion logo"  />
   <img width="10" />
