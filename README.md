@@ -1,4 +1,8 @@
 <div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+<div align="center">
   <a href="https://instagram.com/aayacreator" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
   </a>
@@ -47,10 +51,6 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="50" alt="cloudflare logo"  />
 </div>
-
-###
-
-<img align="left" height="100" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
