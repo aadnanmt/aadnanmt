@@ -24,7 +24,7 @@
 
 ###
 
-<p align="center">👋 Hi, I’m Adnan from Indonesia<br><br>🔭 I’m working as a Prompt Engineer & Digital Creator (fokus ke AI & teknologi kreatif)<br>📚 I’m currently learning AI tools, Python programming, and creative prompt design<br>⚡ In my free time I love exploring AI experiments, building digital products, and sharing knowledge tech</p>
+<p align="center">👋 Hi, I’m Adnan from Indonesia.<br><br>🔭 I’m working as a Software Engineer & Digital Creator.<br>📚 I’m currently learning AI tools, Python programming, and creative prompt design.<br>⚡ In my free time I love exploring AI experiments, building digital products, and sharing knowledge technology.</p>
 
 ###
 
@@ -75,11 +75,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadnanmt&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=true&order=2" widht="100%" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadnanmt&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true&order=2" widht="100%" alt="languages graph"  />
   <br>
-  <img src="https://streak-stats.demolab.com?user=aadnanmt&locale=en&mode=daily&theme=synthwave&hide_border=true&border_radius=5&order=3" widht="100%" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=aadnanmt&theme=dracula&column=-1&row=11&margin-w=6&margin-h=14&no-bg=false&no-frame=true&order=4" widht="150em" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadnanmt&radius=14&theme=synthwave-84&area=false&order=5&hide_border=true&hide_title=true" widht="200%" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=aadnanmt&locale=en&mode=daily&theme=blueberry&hide_border=true&border_radius=5&order=3" widht="100%" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=aadnanmt&theme=discord&column=-1&row=11&margin-w=6&margin-h=14&no-bg=false&no-frame=true&order=4" widht="150em" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadnanmt&radius=14&theme=github-dark&area=false&order=5&hide_border=true&hide_title=true" widht="200%" alt="activity-graph graph"  />
 </div>
 
 ###
