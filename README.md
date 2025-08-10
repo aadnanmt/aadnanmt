@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://instagram.com/aayacreator" target="_blank">
+  <a href="https://x.com/aayacreator" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
   </a>
   <a href="https://instagram.com/aadnanmt" target="_blank">
@@ -17,6 +17,18 @@
 ###
 
 <h1 align="center">Hey 👋What's Up?</h1>
+
+###
+
+<h3 align="center">👩‍💻  About Me</h3>
+
+###
+
+<p align="center">👋 Hi, I’m Adnan from Indonesia<br><br>🔭 I’m working as a Prompt Engineer & Digital Creator (fokus ke AI & teknologi kreatif)<br>📚 I’m currently learning AI tools, Python programming, and creative prompt design<br>⚡ In my free time I love exploring AI experiments, building digital products, and sharing knowledge tech</p>
+
+###
+
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
