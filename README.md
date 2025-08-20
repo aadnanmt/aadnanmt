@@ -91,7 +91,7 @@
 </picture>
 
 ###
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadnanmt&radius=14&theme=github-dark&area=false&order=5&hide_border=true&hide_title=true" widht="200%" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadnanmt&radius=14&theme=github-dark&area=false&order=5&hide_border=true&hide_title=true" widht="100%" alt="activity-graph graph"  />
 </div>
 
 ###
