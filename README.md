@@ -72,6 +72,9 @@
   <img src="https://skillicons.dev/icons?i=md" height="50" alt="markdown logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="50" alt="cloudflare logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="10" />
 </div>
 
 ###
