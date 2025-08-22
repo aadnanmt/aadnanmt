@@ -53,6 +53,8 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=windows" height="50" alt="windows logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="powershell logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=discord" height="50" alt="discord"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=notion" height="50" alt="notion logo"  />
