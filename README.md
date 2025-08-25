@@ -1,6 +1,8 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+
+###
 
 <div align="center">
   <a href="https://x.com/aayacreator" target="_blank">
@@ -11,12 +13,14 @@
   </a>
   <a href="mailto:aadnanmtcontact@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+  <a href="_aadnanmt" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="37" height="25" alt="telegram logo"  />
   </a>
 </div>
 
 ###
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<h2 align="center">Hey 👋What's Up?</h2>
 
 ###
 
@@ -37,9 +41,13 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=bots" height="50" alt="bots logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
   <img width="10" />
