@@ -93,10 +93,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadnanmt&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true&order=2" widht="100%" alt="languages graph"  />
   <br>
   <img src="https://streak-stats.demolab.com?user=aadnanmt&locale=en&mode=daily&theme=blueberry&hide_border=true&border_radius=5&order=3" widht="100%" alt="streak graph"  />
-  
-###
-
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadnanmt&radius=10&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="200" alt="activity-graph graph"  />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadnanmt&radius=10&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -106,7 +104,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadnanmt/aadnanmt/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aadnanmt/aadnanmt/output/pacman-contribution-graph.svg">
 </picture>
-
-
 
 ###
