@@ -96,15 +96,17 @@
   
 ###
 
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadnanmt&radius=10&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="200" alt="activity-graph graph"  />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadnanmt/aadnanmt/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadnanmt/aadnanmt/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aadnanmt/aadnanmt/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadnanmt&radius=14&theme=github-dark&area=false&order=5&hide_border=true&hide_title=true" widht="100%" alt="activity-graph graph"  />
-</div>
 
 ###
