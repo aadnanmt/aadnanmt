@@ -85,9 +85,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadnanmt&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true&order=2" widht="100%" alt="languages graph"  />
   <br>
   <img src="https://streak-stats.demolab.com?user=aadnanmt&locale=en&mode=daily&theme=blueberry&hide_border=true&border_radius=5&order=3" widht="100%" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=aadnanmt&theme=discord&column=-1&row=11&margin-w=6&margin-h=14&no-bg=false&no-frame=true&order=4" widht="150em" alt="trophy graph"  />
-
-  ###
+  
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadnanmt/aadnanmt/output/pacman-contribution-graph-dark.svg">
@@ -96,6 +95,7 @@
 </picture>
 
 ###
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadnanmt&radius=14&theme=github-dark&area=false&order=5&hide_border=true&hide_title=true" widht="100%" alt="activity-graph graph"  />
 </div>
 
