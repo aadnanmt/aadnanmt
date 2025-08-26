@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="center">Hey 👋What's Up?</h2>
+<h2 align="center">Hey, 👋What's Up?</h2>
 
 ###
 
