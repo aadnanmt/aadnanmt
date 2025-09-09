@@ -49,8 +49,6 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=debian" height="50" alt="debian logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=ubuntu" height="50" alt="ubuntu logo"  />
