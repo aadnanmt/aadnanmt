@@ -37,25 +37,25 @@
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=go" height="50" alt="go logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=bots" height="50" alt="bots logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo"  />
+  <img src="https://skillicons.dev/icons?i=debian" height="50" alt="debian logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=ubuntu" height="50" alt="ubuntu logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=debian" height="50" alt="debian logo"  />
+  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mint" height="50" alt="linux mint logo"  />
   <img width="10" />
