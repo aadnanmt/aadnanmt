@@ -47,6 +47,10 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=sublime" height="50" alt="sublime text logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=debian" height="50" alt="debian logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
