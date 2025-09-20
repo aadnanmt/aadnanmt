@@ -7,7 +7,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="33" alt="twitter logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="33" alt="discord logo"  />
-  <a href="https://t.me/aadnanmtecth" target="_blank">
+  <a href="https://t.me/aadnanmtech" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="33" alt="telegram logo"  />
   </a>
   <a href="mailto:aadnanmtcontact@gmail.com" target="_blank">
