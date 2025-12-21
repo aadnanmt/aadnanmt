@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <a href="https://x.com/aayacreator" target="_blank">
+  <a href="https://x.com/aadnanmt" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="33" alt="twitter logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="33" alt="discord logo"  />
@@ -28,7 +28,7 @@
 
 ###
 
-<p align="center">👋 Hi, I’m Adnan from Indonesia.<br><br>🔭 I’m working as a Software Engineer & Digital Creator.<br>📚 I’m currently learning AI tools, Python programming, and creative prompt design.<br>⚡ In my free time I love exploring AI experiments, building digital products, and sharing knowledge technology.</p>
+<p align="center">👋 Hi, I’m Adnan from Indonesia.<br><br>🔭 I’m working as a Web Developer, Prompt Designer & Digital Creator.<br>📚 I’m currently learning AI tools, Python programming, and creative prompt design.<br>⚡ In my free time I love exploring AI experiments, building digital products, and sharing knowledge technology.</p>
 
 ###
 
