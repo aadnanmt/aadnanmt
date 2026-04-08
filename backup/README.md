@@ -1,19 +1,19 @@
-![👋 Hi, my name is Adnan Slamet Wibowo](img-github/quotes.png)
+<!--![Hi, my name is Adnan Slamet Wibowo](img-github/quotes.png)
 
 
-<h2 align="center">Eeyooo, 👋What's Up?</h2>
-
-###
-
-<h3 align="center">👨🏻‍💻 About Me</h3>
+<h2 align="center">Eeyooo, What's Up?</h2>
 
 ###
 
-<p align="center">👋 Hi, I’m Adnan from Indonesia.<br><br>🔭 I’m working as a Web Developer, Prompt Designer & Digital Creator.<br>📚 I’m currently learning AI tools, Python programming, and creative prompt design.<br>⚡ In my free time I love exploring AI experiments, building digital products, and sharing knowledge technology.</p>
+<h3 align="center"> About Me</h3>
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<p align="center">Hi, I’m Adnan from Indonesia.<br><br> I’m working as a Web Developer<br> I’m currently learning AI tools, Python programming, and creative llm integration.<br> In my free time I love exploring AI experiments, building digital products, and sharing knowledge technology.</p>
+
+###
+
+<h3 align="center"> Language and tools</h3>
 
 ###
 
@@ -47,7 +47,7 @@
   <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="powershell logo"  />
   <img width="10" />
   <!-- <img src="https://skillicons.dev/icons?i=discord" height="50" alt="discord"  />
-  <img width="10" /> -->
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=notion" height="50" alt="notion logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo"  />
@@ -87,6 +87,4 @@
 ###
 <img src="https://github-profile-trophy.vercel.app?username=aadnanmt&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadnanmt&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=false" height="300" alt="activity-graph graph"  />
-</div>
-
-###
+</div>-->
