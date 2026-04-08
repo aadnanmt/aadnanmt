@@ -12,3 +12,7 @@
 *Building fast, simple, and scalable apps with out-of-the-box thinking.*
 
 [ Portfolio ](https://aadnanmt.web.id) | [ Laboratory ](https://github.com/nanoo-labs)
+
+---
+**Connect with me:**
+[ X/Twitter ](https://x.com/aadnanmt) \ [ Instagram ](https://instagram.com/aadnanmt) \ [ Telegram ](https://t.me/aadnanmtech) \ [ Email ](mailto:dev@nanoo.cloud)
