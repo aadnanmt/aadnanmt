@@ -5,15 +5,16 @@
 
 ### Technical Environment now
 - **Frontend** — TS/JS (Astro), HTML, CSS (Tailwindcss)
-- **Backend**  — TS (Hono) and Python (Fastapi, Flask).
+- **Backend** — TS (Hono) and Python (Fastapi, Flask).
 - **Sql** — Sqlite and Postgresql
 - **Nosql** — Redis
 - **System** — Arch Linux, Hyprland, I3wm, Alpine, Debian minimal, Termux, Tmux. 
 - **Editor** — Sublime (fav), Neovim, VS Code. 
-- **Shell** — Fish
+- **Shell** — Fish Shell
 - **Terminal** — Kitty
 - **Tools** — Git, Wrangler, Vite, Docker, Podman, Bun, Pnpm.
 
+### Dev Activity
 ---
 ### Focus now
 - **Principles** • Performance-first. Zero-bloat. Scalable Architecture.
