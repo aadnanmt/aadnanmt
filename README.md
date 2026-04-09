@@ -14,9 +14,11 @@
 - **Terminal** — Kitty
 - **Tools** — Git, Wrangler, Vite, Docker, Podman, Bun, Pnpm.
 
+...
 ### Dev Activity
 ---
 ### Focus now
+...
 - **Principles** • Performance-first. Zero-bloat. Scalable Architecture.
 - **Current Grind** • Internship (PKL) @ UIN Malang - Academic Dept.
 
