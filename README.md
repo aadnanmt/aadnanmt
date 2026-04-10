@@ -30,13 +30,13 @@ SCSS       [░░░░░░░░░░░░░░░] 2.6%
 
 $ aadnanmt-stats --commit
 -------------------------
-Fri   [██░░░░░░░░] 2 commits
 Sat   [█████░░░░░] 5 commits
 Sun   [██████░░░░] 6 commits
 Mon   [█████████████] 13 commits
 Tue   [███████░░░] 7 commits
 Wed   [█████░░░░░] 5 commits
-Thu   [███████████████████████] 23 commits
+Thu   [████████████████████████] 24 commits
+Fri   [░░░░░░░░░░] 0 commits
 -------------------------
 ```
 
@@ -52,4 +52,6 @@ Thu   [███████████████████████] 23
 
 ---
 **Connect:**
-[X/Twitter](https://x.com/aadnanmt) / [Instagram](https://instagram.com/aadnanmt) / [Telegram](https://t.me/aadnanmtech) / [Email](mailto:dev@nanoo.cloud)
+[X/Twitter](https://x.com/aadnanmt) / [Instagram](https://instagram.com/aadnanmt) / [Telegram](https://t.me/aadnanmtech) / [Email](mailto:dev@nanoo.cloud)<br>
+
+[!] This profile update automatically via custom bun n ts script.
