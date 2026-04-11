@@ -8,11 +8,11 @@
 - **Backend** — TS (Hono) and Python (Fastapi, Flask).
 - **Sql** — Sqlite and Postgresql
 - **Nosql** — Redis
-- **OS** — Arch linux (main), Debian minimal and Alpine (Container/Server)
+- **OS** — Arch linux (Daily Driver)
 - **Window Manager** — Hyprland and I3wm
-- **Editor** — Sublime (fav), "Neovim", VS Code. 
+- **Editor** — Neovim (Primary) and VS Code (Secondary)
 - **Shell and Terminal** — Fish Shell and Kitty
-- **Tools** — Git, Wrangler, Vite, Docker, Podman, Bun, Pnpm.
+- **Tools** — Git, Wrangler, Vite, Podman, Bun, Pnpm.
 
 ### Dev activity
 ```text
@@ -33,10 +33,10 @@ $ aadnanmt-stats --commit
 Sun   [██████░░░░] 6 commits
 Mon   [██████████████] 14 commits
 Tue   [███████░░░] 7 commits
-Wed   [█████░░░░░] 5 commits
+Wed   [████░░░░░░] 4 commits
 Thu   [█████████████████████████] 25 commits
-Fri   [███████████████████████] 23 commits
-Sat   [░░░░░░░░░░] 0 commits
+Fri   [████████████████████] 20 commits
+Sat   [███░░░░░░░] 3 commits
 -------------------------
 ```
 
