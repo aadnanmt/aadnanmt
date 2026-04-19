@@ -30,13 +30,13 @@ EJS        [█░░░░░░░░░░░░░░] 5.2%
 
 $ aadnanmt-stats --commit
 -------------------------
-Sun   [███████████████████] 19 commits
 Mon   [████████████] 12 commits
 Tue   [█████░░░░░] 5 commits
 Wed   [█████████░] 9 commits
 Thu   [█████████████████] 17 commits
 Fri   [█████████████████████████] 25 commits
-Sat   [██████░░░░] 6 commits
+Sat   [███████░░░] 7 commits
+Sun   [░░░░░░░░░░] 0 commits
 -------------------------
 ```
 
