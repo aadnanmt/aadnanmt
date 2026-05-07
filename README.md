@@ -30,13 +30,13 @@ SCSS       [█░░░░░░░░░░░░░░] 5.5%
 
 $ aadnanmt-stats --commit
 -------------------------
-Thu   [██░░░░░░░░] 2 commits
 Fri   [████████████████] 16 commits
 Sat   [█████████░] 9 commits
 Sun   [████████████████████] 20 commits
 Mon   [██████████████████████] 22 commits
 Tue   [███████████████] 15 commits
-Wed   [███████████] 11 commits
+Wed   [████████████████] 16 commits
+Thu   [█░░░░░░░░░] 1 commits
 -------------------------
 ```
 
