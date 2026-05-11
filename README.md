@@ -36,7 +36,7 @@ Thu   [██████████████] 14 commits
 Fri   [█████░░░░░] 5 commits
 Sat   [█████████░] 9 commits
 Sun   [██████████] 10 commits
-Mon   [░░░░░░░░░░] 0 commits
+Mon   [██████████] 10 commits
 -------------------------
 ```
 
