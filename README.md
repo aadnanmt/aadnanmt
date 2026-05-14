@@ -4,6 +4,8 @@
 
 > Current Mission: Building high-performance edge ecosystems at `nanoolabs`.
 
+---
+
 ### Tech environment now
 
 - **Frontend**  
@@ -19,45 +21,46 @@
 
 > _Focus: Performance, zero-bloat, and minimalist architecture._
 
+---
+
 ### Dev activity
 
-## $ aadnanmt-stats --languages
-
-Shell [███░░░░░░░░░░░░] 22.3%
-SCSS [███░░░░░░░░░░░░] 20.6%
-HTML [███░░░░░░░░░░░░] 19.7%
+```
+$ aadnanmt-stats --languages
+------------------------------
+Shell      [███░░░░░░░░░░░░] 22.3%
+SCSS       [███░░░░░░░░░░░░] 20.6%
+HTML       [███░░░░░░░░░░░░] 19.7%
 JavaScript [███░░░░░░░░░░░░] 17.0%
-CSS [█░░░░░░░░░░░░░░] 8.6%
-Python [█░░░░░░░░░░░░░░] 6.2%
-Astro [░░░░░░░░░░░░░░░] 2.9%
-GLSL [░░░░░░░░░░░░░░░] 2.8%
+CSS        [█░░░░░░░░░░░░░░] 8.6%
+Python     [█░░░░░░░░░░░░░░] 6.2%
+Astro      [░░░░░░░░░░░░░░░] 2.9%
+GLSL       [░░░░░░░░░░░░░░░] 2.8%
+------------------------------
 
----
-
-## $ aadnanmt-stats --commit-(total:-1791)
-
-Fri [██░░░░░░░░] 4 commits
-Sat [█████░░░░░] 9 commits
-Sun [█████░░░░░] 9 commits
-Mon [███░░░░░░░] 6 commits
-Tue [█████░░░░░] 9 commits
-Wed [█████░░░░░] 10 commits
-Thu [██████████] 19 commits
-
----
+$ aadnanmt-stats --commit-(total:-1793)
+------------------------------
+Fri   [██░░░░░░░░] 4 commits
+Sat   [████░░░░░░] 9 commits
+Sun   [████░░░░░░] 9 commits
+Mon   [███░░░░░░░] 6 commits
+Tue   [████░░░░░░] 9 commits
+Wed   [█████░░░░░] 10 commits
+Thu   [██████████] 21 commits
+------------------------------
+```
 
 ---
 
 ### Focus now
 
-- **Principles** • Performance-first. Zero-bloat. Scalable Architecture.
 - **Current Grind** • Internship (PKL) [UIN Malang - Campus 1.](https://uin-malang.ac.id)
-
----
 
 _Building fast, simple, and scalable apps with out-of-the-box thinking._
 
-[ Portfolio ](https://me.nanoolabs.dev) / [ Git | Laboratory ](https://github.com/nanoolabs)
+---
+
+[ Portfolio ](https://me.nanoolabs.dev) / [ Git | Laboratory ](https://github.com/nanoolabs) /
 [ Website Nanoo Labs](https://nanoolabs.dev) / [ Website Nanoo Biz](https://nanoo.biz.id)
 
 ---
