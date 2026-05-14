@@ -28,25 +28,27 @@
 ```
 $ aadnanmt-stats --languages
 ------------------------------
-Shell      [███░░░░░░░░░░░░] 22.3%
-SCSS       [███░░░░░░░░░░░░] 20.6%
-HTML       [███░░░░░░░░░░░░] 19.7%
-JavaScript [███░░░░░░░░░░░░] 17.0%
-CSS        [█░░░░░░░░░░░░░░] 8.6%
-Python     [█░░░░░░░░░░░░░░] 6.2%
-Astro      [░░░░░░░░░░░░░░░] 2.9%
-GLSL       [░░░░░░░░░░░░░░░] 2.8%
+JavaScript [████░░░░░░░░░░░] 23.6%
+CSS        [███░░░░░░░░░░░░] 21.2%
+Astro      [███░░░░░░░░░░░░] 19.7%
+HTML       [██░░░░░░░░░░░░░] 10.2%
+TypeScript [█░░░░░░░░░░░░░░] 7.3%
+Shell      [█░░░░░░░░░░░░░░] 6.5%
+Stylus     [█░░░░░░░░░░░░░░] 6.3%
+SCSS       [█░░░░░░░░░░░░░░] 5.2%
 ------------------------------
 
-$ aadnanmt-stats --commit-(total:-1794)
+$ aadnanmt-stats --commit
 ------------------------------
-Fri   [██░░░░░░░░] 4 commits
-Sat   [████░░░░░░] 9 commits
-Sun   [████░░░░░░] 9 commits
-Mon   [███░░░░░░░] 6 commits
-Tue   [████░░░░░░] 9 commits
-Wed   [█████░░░░░] 10 commits
-Thu   [██████████] 22 commits
+Fri   [██░░░░░░░░] 5 commits
+Sat   [███░░░░░░░] 9 commits
+Sun   [████░░░░░░] 10 commits
+Mon   [████░░░░░░] 11 commits
+Tue   [███░░░░░░░] 9 commits
+Wed   [██████░░░░] 16 commits
+Thu   [██████████] 27 commits
+
+Total: 1,946 commits in the last year
 ------------------------------
 ```
 
