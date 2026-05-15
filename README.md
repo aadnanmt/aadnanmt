@@ -8,16 +8,11 @@
 
 ### Tech environment now
 
-- **Frontend**  
-  `TS/JS (Astro)` `HTML` `CSS (Tailwind)`
-- **Backend**
-  `TS (Hono)` `Python (FastAPI/Flask)`
-- **Databases**
-  `PostgreSQL` `SQLite` `Redis`
-- **System**
-  `Arch (Hyprland)` `Fish/Bash` `Kitty`
-- **Tooling**
-  `Neovim` `Git` `Podman` `Bun/Pnpm` `Wrangler`
+- **Frontend** `TS/JS (Astro)` `HTML` `CSS (Tailwind)`
+- **Backend** `TS (Hono)` `Python (FastAPI/Flask)`
+- **Databases** `PostgreSQL` `SQLite` `Redis`
+- **System** `Arch (Hyprland)` `Fish/Bash` `Kitty`
+- **Tooling** `Neovim` `Git` `Podman` `Bun/Pnpm` `Wrangler`
 
 > _Focus: Performance, zero-bloat, and minimalist architecture._
 
@@ -28,14 +23,14 @@
 ```
 $ aadnanmt-stats --languages
 ------------------------------
-JavaScript [████░░░░░░░░░░░] 23.6%
-CSS        [███░░░░░░░░░░░░] 21.2%
-Astro      [███░░░░░░░░░░░░] 19.7%
-HTML       [██░░░░░░░░░░░░░] 10.2%
-TypeScript [█░░░░░░░░░░░░░░] 7.3%
-Shell      [█░░░░░░░░░░░░░░] 6.5%
-Stylus     [█░░░░░░░░░░░░░░] 6.3%
-SCSS       [█░░░░░░░░░░░░░░] 5.2%
+JavaScript [████░░░░░░░░░░░] 28.8%
+CSS        [███░░░░░░░░░░░░] 20.1%
+Astro      [███░░░░░░░░░░░░] 18.5%
+HTML       [█░░░░░░░░░░░░░░] 9.3%
+TypeScript [█░░░░░░░░░░░░░░] 6.7%
+Shell      [█░░░░░░░░░░░░░░] 6.0%
+Stylus     [█░░░░░░░░░░░░░░] 5.8%
+SCSS       [█░░░░░░░░░░░░░░] 4.7%
 ------------------------------
 
 $ aadnanmt-stats --commit
@@ -46,9 +41,9 @@ Mon   [████░░░░░░] 11 commits
 Tue   [███░░░░░░░] 9 commits
 Wed   [██████░░░░] 16 commits
 Thu   [██████████] 29 commits
-Fri   [░░░░░░░░░░] 1 commits
+Fri   [██████░░░░] 17 commits
 
-Total: 2,062 commits in the last year
+Total: 2,078 commits in the last year
 ------------------------------
 ```
 
