@@ -32,10 +32,10 @@ Thu   [██████████] 19 commits
 Fri   [██████░░░░] 12 commits
 Sat   [█████░░░░░] 10 commits
 Sun   [████░░░░░░] 8 commits
-Mon   [███░░░░░░░] 6 commits
+Mon   [████░░░░░░] 8 commits
 Tue   [░░░░░░░░░░] 0 commits
 
-Total: 2,179 commits in the last year
+Total: 2,181 commits in the last year
 ----------------------------------
 ```
 
