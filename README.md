@@ -32,10 +32,10 @@ Fri   [██████░░░░] 12 commits
 Sat   [█████░░░░░] 10 commits
 Sun   [████░░░░░░] 8 commits
 Mon   [████░░░░░░] 8 commits
-Tue   [█░░░░░░░░░] 2 commits
-Wed   [░░░░░░░░░░] 0 commits
+Tue   [██░░░░░░░░] 4 commits
+Wed   [███░░░░░░░] 6 commits
 
-Total: 2,183 commits in the last year
+Total: 2,191 commits
 ----------------------------------
 ```
 
@@ -48,4 +48,4 @@ Current: Internship (PKL) @[UIN Malang](https://uin-malang.ac.id)
 
 [Twitter](https://x.com/aadnanmt) / [Instagram](https://instagram.com/aadnanmt) / [Telegram](https://t.me/aadnanmtech) / [Email](mailto:adnan@nanoolabs.dev)
 
-<p align="right"><small>Auto-sync 12h via Bun/TypeScript. No commit farming.</small></p>
+<p align="right"><small>Auto-sync 12h via Bun/TypeScript. No commit farming. Source: <a href="https://github.com/aadnanmt/readmeSync">readmeSync</a></small></p>
