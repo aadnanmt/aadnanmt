@@ -18,7 +18,7 @@ $ aadnanmt-stats --languages
 JavaScript [████░░░░░░░░░░░] 28.7%
 CSS        [███░░░░░░░░░░░░] 20.0%
 Astro      [███░░░░░░░░░░░░] 18.7%
-HTML       [█░░░░░░░░░░░░░░] 9.3%
+HTML       [█░░░░░░░░░░░░░░] 9.2%
 TypeScript [█░░░░░░░░░░░░░░] 6.8%
 Shell      [█░░░░░░░░░░░░░░] 6.1%
 Stylus     [█░░░░░░░░░░░░░░] 5.7%
@@ -27,25 +27,25 @@ SCSS       [█░░░░░░░░░░░░░░] 4.7%
 
 $ aadnanmt-stats --commit
 ----------------------------------
-Thu   [██████████] 19 commits
-Fri   [██████░░░░] 12 commits
-Sat   [█████░░░░░] 10 commits
-Sun   [████░░░░░░] 8 commits
-Mon   [████░░░░░░] 8 commits
-Tue   [██░░░░░░░░] 4 commits
-Wed   [███░░░░░░░] 6 commits
+Fri   [█████████░] 12 commits
+Sat   [████████░░] 10 commits
+Sun   [██████░░░░] 8 commits
+Mon   [██████░░░░] 8 commits
+Tue   [███░░░░░░░] 4 commits
+Wed   [██████████] 13 commits
+Thu   [░░░░░░░░░░] 0 commits
 
-Total: 2,191 commits
+Total: 2,198 commits in last year
 ----------------------------------
 ```
 
 Principles: Performance, zero-bloat, and scalable architecture.
-Current: Internship (PKL) @[UIN Malang](https://uin-malang.ac.id)
+Current: Internship (PKL) [@UIN Malang](https://uin-malang.ac.id)
 
 [Portfolio](https://me.nanoolabs.dev) / [Laboratory](https://github.com/nanoolabs) / [Nanoo Labs](https://nanoolabs.dev) / [Nanoo Biz](https://nanoo.biz.id)
 
 ### Connect with me [ ▰_▰ ]
 
-[Twitter](https://x.com/aadnanmt) / [Instagram](https://instagram.com/aadnanmt) / [Telegram](https://t.me/aadnanmtech) / [Email](mailto:adnan@nanoolabs.dev)
+[Twitter](https://x.com/aadnanmt) / [Instagram](https://instagram.com/aadnanmt) / [Telegram](https://t.me/adnanbuilds) / [Email](mailto:adnan@nanoolabs.dev)
 
-<p align="right"><small>Auto-sync 12h via Bun/TypeScript. No commit farming. Source: <a href="https://github.com/aadnanmt/readmeSync">readmeSync</a></small></p>
+<p align="right"><small>Auto-sync 12h via Bun/TypeScript. No commit farming. Check this repository: <a href="https://github.com/aadnanmt/readmeSync">readmeSync</a></small></p>
