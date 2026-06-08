@@ -17,9 +17,9 @@ $ aadnanmt-stats --languages
 ----------------------------------
 JavaScript [████░░░░░░░░░░░] 28.7%
 CSS        [███░░░░░░░░░░░░] 20.2%
-Astro      [███░░░░░░░░░░░░] 18.5%
+Astro      [███░░░░░░░░░░░░] 18.6%
 HTML       [█░░░░░░░░░░░░░░] 9.1%
-TypeScript [█░░░░░░░░░░░░░░] 7.0%
+TypeScript [█░░░░░░░░░░░░░░] 7.1%
 Shell      [█░░░░░░░░░░░░░░] 6.0%
 Stylus     [█░░░░░░░░░░░░░░] 5.7%
 SCSS       [█░░░░░░░░░░░░░░] 4.6%
@@ -27,15 +27,15 @@ SCSS       [█░░░░░░░░░░░░░░] 4.6%
 
 $ aadnanmt-stats --commit
 ----------------------------------
-Tue   [████████░░] 9 commits
-Wed   [███████░░░] 8 commits
-Thu   [██████████] 12 commits
-Fri   [██████░░░░] 7 commits
+Tue   [███████░░░] 9 commits
+Wed   [██████░░░░] 8 commits
+Thu   [█████████░] 12 commits
+Fri   [█████░░░░░] 7 commits
 Sat   [█████░░░░░] 6 commits
-Sun   [███████░░░] 8 commits
-Mon   [░░░░░░░░░░] 0 commits
+Sun   [████████░░] 10 commits
+Mon   [██████████] 13 commits
 
-Total: 2,317 commits in last year
+Total: 2,332 commits in last year
 ----------------------------------
 ```
 
