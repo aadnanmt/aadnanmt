@@ -27,15 +27,15 @@ SCSS       [█░░░░░░░░░░░░░░] 5.1%
 
 $ aadnanmt-stats --commit
 ----------------------------------
-Sat   [█████████░] 21 commits
 Sun   [██████████] 24 commits
 Mon   [████░░░░░░] 10 commits
 Tue   [███░░░░░░░] 6 commits
 Wed   [████████░░] 20 commits
 Thu   [██████░░░░] 15 commits
-Fri   [░░░░░░░░░░] 1 commits
+Fri   [██░░░░░░░░] 4 commits
+Sat   [░░░░░░░░░░] 0 commits
 
-Total: 2,496 commits in last year
+Total: 2,499 commits in last year
 ----------------------------------
 ```
 
