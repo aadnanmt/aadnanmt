@@ -15,27 +15,27 @@
 ```bash
 $ aadnanmt-stats --languages
 ----------------------------------
-JavaScript [███░░░░░░░░░░░░] 22.9%
-CSS        [███░░░░░░░░░░░░] 21.0%
-Astro      [███░░░░░░░░░░░░] 19.5%
-HTML       [██░░░░░░░░░░░░░] 10.0%
+JavaScript [████░░░░░░░░░░░] 23.4%
+CSS        [███░░░░░░░░░░░░] 20.9%
+Astro      [███░░░░░░░░░░░░] 19.3%
+HTML       [█░░░░░░░░░░░░░░] 10.0%
 TypeScript [█░░░░░░░░░░░░░░] 7.8%
-Shell      [█░░░░░░░░░░░░░░] 7.5%
+Shell      [█░░░░░░░░░░░░░░] 7.4%
 Stylus     [█░░░░░░░░░░░░░░] 6.2%
-SCSS       [█░░░░░░░░░░░░░░] 5.1%
+SCSS       [█░░░░░░░░░░░░░░] 5.0%
 ----------------------------------
 
 $ aadnanmt-stats --commit
 ----------------------------------
-Sun   [██████████] 4 commits
-Mon   [██████████] 4 commits
-Tue   [██████████] 4 commits
-Wed   [██████████] 4 commits
-Thu   [██████████] 4 commits
-Fri   [██████████] 4 commits
-Sat   [██████████] 4 commits
+Sun   [████░░░░░░] 4 commits
+Mon   [████░░░░░░] 4 commits
+Tue   [████░░░░░░] 4 commits
+Wed   [████░░░░░░] 4 commits
+Thu   [████░░░░░░] 4 commits
+Fri   [████░░░░░░] 4 commits
+Sat   [██████████] 10 commits
 
-Total: 2,535 commits in last year
+Total: 2,541 commits in last year
 ----------------------------------
 ```
 
