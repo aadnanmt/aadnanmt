@@ -29,13 +29,13 @@ $ aadnanmt-stats --commit
 ----------------------------------
 Thu   [██░░░░░░░░] 4 commits
 Fri   [██░░░░░░░░] 4 commits
-Sat   [███████░░░] 12 commits
+Sat   [██████░░░░] 12 commits
 Sun   [█████░░░░░] 9 commits
 Mon   [████░░░░░░] 7 commits
-Tue   [██████████] 17 commits
-Wed   [████░░░░░░] 6 commits
+Tue   [██████████] 19 commits
+Wed   [████░░░░░░] 7 commits
 
-Total: 2,582 commits in last year
+Total: 2,585 commits in last year
 ----------------------------------
 ```
 
