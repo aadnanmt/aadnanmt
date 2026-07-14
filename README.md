@@ -27,15 +27,15 @@ EJS        [█░░░░░░░░░░░░░░] 5.9%
 
 $ aadnanmt-stats --commit
 ----------------------------------
-Tue   [██████████] 28 commits
-Wed   [█░░░░░░░░░] 4 commits
-Thu   [█████░░░░░] 15 commits
-Fri   [███░░░░░░░] 8 commits
-Sat   [█░░░░░░░░░] 4 commits
-Sun   [█░░░░░░░░░] 4 commits
-Mon   [███░░░░░░░] 7 commits
+Wed   [███░░░░░░░] 4 commits
+Thu   [██████████] 15 commits
+Fri   [█████░░░░░] 8 commits
+Sat   [███░░░░░░░] 4 commits
+Sun   [███░░░░░░░] 4 commits
+Mon   [██████░░░░] 9 commits
+Tue   [░░░░░░░░░░] 0 commits
 
-Total: 2,660 commits in last year
+Total: 2,662 commits in last year
 ----------------------------------
 ```
 
