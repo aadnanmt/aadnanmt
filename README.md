@@ -16,33 +16,33 @@
 $ aadnanmt-stats --codebase
 ----------------------------------
 REPOS: 59 (include private repo personal & org)
-VOLUME: 196.83 MB
+VOLUME: 198.59 MB
 LICENSE: MIT
 ----------------------------------
 
 $ aadnanmt-stats --languages
 ----------------------------------
 JavaScript [████░░░░░░░░░░░] 28.4%
-CSS        [███░░░░░░░░░░░░] 19.9%
+CSS        [███░░░░░░░░░░░░] 20.0%
 Shell      [██░░░░░░░░░░░░░] 14.6%
 HTML       [██░░░░░░░░░░░░░] 12.1%
 Stylus     [█░░░░░░░░░░░░░░] 7.5%
 SCSS       [█░░░░░░░░░░░░░░] 6.1%
-Astro      [█░░░░░░░░░░░░░░] 5.8%
+Astro      [█░░░░░░░░░░░░░░] 5.6%
 EJS        [█░░░░░░░░░░░░░░] 5.5%
 ----------------------------------
 
 $ aadnanmt-stats --commit
 ----------------------------------
-Tue   [███░░░░░░░] 6 commits
-Wed   [██░░░░░░░░] 4 commits
+Tue   [██░░░░░░░░] 6 commits
+Wed   [█░░░░░░░░░] 4 commits
 Thu   [██░░░░░░░░] 5 commits
-Fri   [████░░░░░░] 8 commits
-Sat   [████████░░] 17 commits
-Sun   [██████████] 20 commits
-Mon   [██████████] 21 commits
+Fri   [███░░░░░░░] 8 commits
+Sat   [█████░░░░░] 17 commits
+Sun   [██████░░░░] 20 commits
+Mon   [██████████] 31 commits
 
-Total: 2,744 commits in last year
+Total: 2,754 commits in last year
 ----------------------------------
 ```
 
