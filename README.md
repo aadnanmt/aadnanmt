@@ -2,17 +2,24 @@
 
 ## 18yo dev & tech minimalist
 
-> Building high-performance edge ecosystems at `nanoolabs`.
+> Building high-performance edge ecosystems at `[nanoolabs](https://github.com/nanoolabs)`.
 
 - **Frontend** `TS/JS (Astro)` `HTML` `CSS (Tailwind)`
-- **Backend** `TS (Hono)` `Python (FastAPI/Flask)`
+- **Backend** `TS (Hono)` `Python (FastAPI)`
 - **Databases** `PostgreSQL` `SQLite` `Redis`
-- **System** `Arch (Hyprland)` `Fish/Bash` `Kitty`
+- **System** `Arch (Niri)` `Fish/Bash` `Kitty`
 - **Tooling** `Neovim` `Git` `Podman` `Bun/Pnpm` `Wrangler`
 
 ### Dev activity [ ■_■ ]
 
 ```bash
+$ aadnanmt-stats --codebase
+----------------------------------
+REPOS: 59 (include private repo personal & org)
+VOLUME: 196.83 MB
+LICENSE: MIT
+----------------------------------
+
 $ aadnanmt-stats --languages
 ----------------------------------
 JavaScript [████░░░░░░░░░░░] 28.4%
@@ -33,16 +40,15 @@ Thu   [███░░░░░░░] 5 commits
 Fri   [████░░░░░░] 8 commits
 Sat   [█████████░] 17 commits
 Sun   [██████████] 20 commits
-Mon   [█████░░░░░] 9 commits
+Mon   [███████░░░] 14 commits
 
-Total: 2,730 commits in last year
+Total: 2,735 commits in last year
 ----------------------------------
 ```
 
 Principles: Performance, zero-bloat, and scalable architecture.
-Current: Internship (PKL) [@UIN Malang](https://uin-malang.ac.id)
 
-[Portfolio](https://me.nanoolabs.dev) / [Laboratory](https://github.com/nanoolabs) / [Nanoo Labs](https://nanoolabs.dev) / [Nanoo Biz](https://nanoo.biz.id)
+[Digital Garden](https://me.nanoolabs.dev) / [Laboratory](https://github.com/nanoolabs) / [Nanoo Labs](https://nanoolabs.dev)
 
 ### Connect with me [ ▰_▰ ]
 
