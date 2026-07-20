@@ -2,7 +2,7 @@
 
 ## 18yo dev & tech minimalist
 
-> Building high-performance edge ecosystems at `[nanoolabs](https://github.com/nanoolabs)`.
+> Building high-performance edge ecosystems at [nanoolabs](https://github.com/nanoolabs).
 
 - **Frontend** `TS/JS (Astro)` `HTML` `CSS (Tailwind)`
 - **Backend** `TS (Hono)` `Python (FastAPI)`
@@ -36,13 +36,13 @@ $ aadnanmt-stats --commit
 ----------------------------------
 Tue   [███░░░░░░░] 6 commits
 Wed   [██░░░░░░░░] 4 commits
-Thu   [███░░░░░░░] 5 commits
+Thu   [██░░░░░░░░] 5 commits
 Fri   [████░░░░░░] 8 commits
-Sat   [█████████░] 17 commits
+Sat   [████████░░] 17 commits
 Sun   [██████████] 20 commits
-Mon   [███████░░░] 14 commits
+Mon   [██████████] 21 commits
 
-Total: 2,735 commits in last year
+Total: 2,744 commits in last year
 ----------------------------------
 ```
 
