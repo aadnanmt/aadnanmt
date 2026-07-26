@@ -40,9 +40,9 @@ Wed   [█░░░░░░░░░] 4 commits
 Thu   [█░░░░░░░░░] 4 commits
 Fri   [██░░░░░░░░] 7 commits
 Sat   [█░░░░░░░░░] 4 commits
-Sun   [░░░░░░░░░░] 0 commits
+Sun   [█░░░░░░░░░] 2 commits
 
-Total: 2,782 commits in last year
+Total: 2,784 commits in last year
 ----------------------------------
 ```
 
