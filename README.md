@@ -16,7 +16,7 @@
 $ aadnanmt-stats --codebase
 ----------------------------------
 REPOS: 60 (include private repo personal & org)
-VOLUME: 202.69 MB
+VOLUME: 203.13 MB
 LICENSE: MIT
 ----------------------------------
 
@@ -34,15 +34,15 @@ EJS        [█░░░░░░░░░░░░░░] 5.5%
 
 $ aadnanmt-stats --commit
 ----------------------------------
-Thu   [██████░░░░] 4 commits
 Fri   [██████████] 7 commits
 Sat   [██████░░░░] 4 commits
 Sun   [██████░░░░] 4 commits
 Mon   [██████░░░░] 4 commits
 Tue   [██████░░░░] 4 commits
-Wed   [███░░░░░░░] 2 commits
+Wed   [██████░░░░] 4 commits
+Thu   [░░░░░░░░░░] 0 commits
 
-Total: 2,796 commits in last year
+Total: 2,798 commits in last year
 ----------------------------------
 ```
 
