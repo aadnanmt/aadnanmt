@@ -16,7 +16,7 @@
 $ aadnanmt-stats --codebase
 ----------------------------------
 REPOS: 60 (include private repo personal & org)
-VOLUME: 203.60 MB
+VOLUME: 204.06 MB
 LICENSE: MIT
 ----------------------------------
 
@@ -34,15 +34,15 @@ Astro      [█░░░░░░░░░░░░░░] 5.5%
 
 $ aadnanmt-stats --commit
 ----------------------------------
-Sat   [█████░░░░░] 4 commits
-Sun   [█████░░░░░] 4 commits
-Mon   [█████░░░░░] 4 commits
-Tue   [█████░░░░░] 4 commits
-Wed   [█████░░░░░] 4 commits
-Thu   [██████████] 8 commits
-Fri   [█████████░] 7 commits
+Sun   [████░░░░░░] 4 commits
+Mon   [████░░░░░░] 4 commits
+Tue   [████░░░░░░] 4 commits
+Wed   [████░░░░░░] 4 commits
+Thu   [█████████░] 8 commits
+Fri   [██████████] 9 commits
+Sat   [░░░░░░░░░░] 0 commits
 
-Total: 2,813 commits in last year
+Total: 2,815 commits in last year
 ----------------------------------
 ```
 
