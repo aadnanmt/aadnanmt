@@ -16,33 +16,33 @@
 $ aadnanmt-stats --codebase
 ----------------------------------
 REPOS: 60 (include private repo personal & org)
-VOLUME: 204.08 MB
+VOLUME: 204.09 MB
 LICENSE: MIT
 ----------------------------------
 
 $ aadnanmt-stats --languages
 ----------------------------------
-JavaScript [█████░░░░░░░░░░] 31.6%
+JavaScript [█████░░░░░░░░░░] 31.5%
 CSS        [███░░░░░░░░░░░░] 22.2%
 Shell      [██░░░░░░░░░░░░░] 16.3%
-HTML       [██░░░░░░░░░░░░░] 13.5%
+HTML       [██░░░░░░░░░░░░░] 13.4%
 SCSS       [█░░░░░░░░░░░░░░] 6.8%
-Astro      [█░░░░░░░░░░░░░░] 6.2%
-TypeScript [░░░░░░░░░░░░░░░] 2.5%
+Astro      [█░░░░░░░░░░░░░░] 6.0%
+TypeScript [░░░░░░░░░░░░░░░] 2.8%
 Markdown   [░░░░░░░░░░░░░░░] 0.9%
 ----------------------------------
 
 $ aadnanmt-stats --commit
 ----------------------------------
-Sun   [███░░░░░░░] 4 commits
-Mon   [███░░░░░░░] 4 commits
-Tue   [███░░░░░░░] 4 commits
-Wed   [███░░░░░░░] 4 commits
-Thu   [██████░░░░] 8 commits
-Fri   [██████░░░░] 9 commits
-Sat   [██████████] 14 commits
+Sun   [██░░░░░░░░] 4 commits
+Mon   [██░░░░░░░░] 4 commits
+Tue   [██░░░░░░░░] 4 commits
+Wed   [██░░░░░░░░] 4 commits
+Thu   [████░░░░░░] 8 commits
+Fri   [█████░░░░░] 9 commits
+Sat   [██████████] 18 commits
 
-Total: 2,829 commits in last year
+Total: 2,833 commits in last year
 ----------------------------------
 ```
 
