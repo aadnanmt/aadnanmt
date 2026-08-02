@@ -1,8 +1,6 @@
-# Adnan (@aadnanmt) [⌐■_■]
+# 18 y/o dev & tech minimalist [⌐■_■]
 
-## 18yo dev & tech minimalist
-
-> Building high-performance edge ecosystems at [nanoolabs](https://github.com/nanoolabs).
+> Building high-performance edge ecosystems at [`nanoolabs`](https://github.com/nanoolabs).
 
 - **Frontend** `TS/JS (Astro)` `HTML` `CSS (Tailwind)`
 - **Backend** `TS (Hono)` `Python (FastAPI)`
@@ -16,33 +14,33 @@
 $ aadnanmt-stats --codebase
 ----------------------------------
 REPOS: 60 (include private repo personal & org)
-VOLUME: 204.09 MB
+VOLUME: 204.54 MB
 LICENSE: MIT
 ----------------------------------
 
 $ aadnanmt-stats --languages
 ----------------------------------
-JavaScript [█████░░░░░░░░░░] 31.5%
-CSS        [███░░░░░░░░░░░░] 22.2%
-Shell      [██░░░░░░░░░░░░░] 16.3%
-HTML       [██░░░░░░░░░░░░░] 13.4%
-SCSS       [█░░░░░░░░░░░░░░] 6.8%
-Astro      [█░░░░░░░░░░░░░░] 6.0%
-TypeScript [░░░░░░░░░░░░░░░] 2.8%
-Markdown   [░░░░░░░░░░░░░░░] 0.9%
+JavaScript [██████░░░░░░░░░░░░░░] 31.5%
+CSS        [████░░░░░░░░░░░░░░░░] 22.2%
+Shell      [███░░░░░░░░░░░░░░░░░] 16.3%
+HTML       [███░░░░░░░░░░░░░░░░░] 13.4%
+SCSS       [█░░░░░░░░░░░░░░░░░░░] 6.8%
+Astro      [█░░░░░░░░░░░░░░░░░░░] 6.0%
+TypeScript [█░░░░░░░░░░░░░░░░░░░] 2.8%
+Markdown   [░░░░░░░░░░░░░░░░░░░░] 0.9%
 ----------------------------------
 
 $ aadnanmt-stats --commit
 ----------------------------------
-Sun   [██░░░░░░░░] 4 commits
-Mon   [██░░░░░░░░] 4 commits
-Tue   [██░░░░░░░░] 4 commits
-Wed   [██░░░░░░░░] 4 commits
-Thu   [████░░░░░░] 8 commits
-Fri   [█████░░░░░] 9 commits
-Sat   [██████████] 18 commits
+Mon   [███░░░░░░░░░░░░] 4 commits
+Tue   [███░░░░░░░░░░░░] 4 commits
+Wed   [███░░░░░░░░░░░░] 4 commits
+Thu   [██████░░░░░░░░░] 8 commits
+Fri   [███████░░░░░░░░] 9 commits
+Sat   [███████████████] 20 commits
+Sun   [████████░░░░░░░] 10 commits
 
-Total: 2,833 commits in last year
+Total: 2,845 commits in last year
 ----------------------------------
 ```
 
