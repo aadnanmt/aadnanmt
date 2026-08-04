@@ -13,7 +13,7 @@
 ```bash
 $ aadnanmt-stats --profile
 ----------------------------------
-FOLLOWERS: 85
+FOLLOWERS: 88
 STREAK: 130 days
 ----------------------------------
 
@@ -44,9 +44,9 @@ Fri   [███████░░░░░░░░] 9 commits
 Sat   [███████████████] 20 commits
 Sun   [███████████████] 20 commits
 Mon   [███████████░░░░] 15 commits
-Tue   [██░░░░░░░░░░░░░] 2 commits
+Tue   [███░░░░░░░░░░░░] 4 commits
 
-Total: 2,872 commits in last year
+Total: 2,874 commits in last year
 ----------------------------------
 ```
 
