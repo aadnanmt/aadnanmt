@@ -20,7 +20,7 @@ STREAK: 135 days
 $ aadnanmt-stats --codebase
 ----------------------------------
 REPOS: 42 (include private repo personal & org)
-VOLUME: 185.09 MB
+VOLUME: 185.55 MB
 LICENSE: MIT
 ----------------------------------
 
@@ -38,15 +38,15 @@ Markdown   [░░░░░░░░░░░░░░░░░░░░] 1.1%
 
 $ aadnanmt-stats --commit
 ----------------------------------
-Tue   [███████░░░░░░░░] 11 commits
 Wed   [███████████████] 25 commits
 Thu   [████████░░░░░░░] 14 commits
 Fri   [███████░░░░░░░░] 12 commits
 Sat   [████░░░░░░░░░░░] 7 commits
 Sun   [█████░░░░░░░░░░] 9 commits
-Mon   [████░░░░░░░░░░░] 7 commits
+Mon   [█████░░░░░░░░░░] 9 commits
+Tue   [░░░░░░░░░░░░░░░] 0 commits
 
-Total: 2,841 commits in last year
+Total: 2,843 commits in last year
 ----------------------------------
 ```
 
