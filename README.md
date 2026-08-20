@@ -13,24 +13,24 @@
 ```bash
 $ aadnanmt-stats --profile
 ----------------------------------
-FOLLOWERS: 94
-STREAK: 137 days
+FOLLOWERS: 93
+STREAK: 138 days
 ----------------------------------
 
 $ aadnanmt-stats --codebase
 ----------------------------------
 REPOS: 42 (include private repo personal & org)
-VOLUME: 186.49 MB
+VOLUME: 185.97 MB
 LICENSE: MIT
 ----------------------------------
 
 $ aadnanmt-stats --languages
 ----------------------------------
-JavaScript [███████░░░░░░░░░░░░░] 35.3%
+JavaScript [███████░░░░░░░░░░░░░] 35.2%
 CSS        [█████░░░░░░░░░░░░░░░] 24.0%
-Shell      [███░░░░░░░░░░░░░░░░░] 13.6%
+Shell      [███░░░░░░░░░░░░░░░░░] 13.5%
 SCSS       [██░░░░░░░░░░░░░░░░░░] 8.3%
-Astro      [█░░░░░░░░░░░░░░░░░░░] 7.1%
+Astro      [█░░░░░░░░░░░░░░░░░░░] 7.2%
 HTML       [█░░░░░░░░░░░░░░░░░░░] 7.0%
 TypeScript [█░░░░░░░░░░░░░░░░░░░] 3.7%
 Markdown   [░░░░░░░░░░░░░░░░░░░░] 1.1%
@@ -44,9 +44,9 @@ Sun   [█████████░░░░░░] 9 commits
 Mon   [█████████░░░░░░] 9 commits
 Tue   [████░░░░░░░░░░░] 4 commits
 Wed   [███████████████] 15 commits
-Thu   [░░░░░░░░░░░░░░░] 0 commits
+Thu   [██████░░░░░░░░░] 6 commits
 
-Total: 2,862 commits in last year
+Total: 2,868 commits in last year
 ----------------------------------
 ```
 
