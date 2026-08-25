@@ -14,7 +14,7 @@
 $ aadnanmt-stats --profile
 ----------------------------------
 FOLLOWERS: 83
-STREAK: 142 days
+STREAK: 143 days
 ----------------------------------
 
 $ aadnanmt-stats --codebase
@@ -28,7 +28,7 @@ $ aadnanmt-stats --languages
 ----------------------------------
 JavaScript [███████░░░░░░░░░░░░░] 35.1%
 CSS        [█████░░░░░░░░░░░░░░░] 23.9%
-Shell      [███░░░░░░░░░░░░░░░░░] 13.7%
+Shell      [███░░░░░░░░░░░░░░░░░] 13.8%
 SCSS       [██░░░░░░░░░░░░░░░░░░] 8.2%
 Astro      [█░░░░░░░░░░░░░░░░░░░] 7.1%
 HTML       [█░░░░░░░░░░░░░░░░░░░] 7.0%
@@ -44,9 +44,9 @@ Fri   [█████░░░░░░░░░░] 6 commits
 Sat   [███████████████] 17 commits
 Sun   [███████████░░░░] 12 commits
 Mon   [█████░░░░░░░░░░] 6 commits
-Tue   [░░░░░░░░░░░░░░░] 0 commits
+Tue   [████░░░░░░░░░░░] 4 commits
 
-Total: 2,897 commits in last year
+Total: 2,901 commits in last year
 ----------------------------------
 ```
 
