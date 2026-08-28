@@ -38,15 +38,15 @@ Markdown   [░░░░░░░░░░░░░░░░░░░░] 1.1%
 
 $ aadnanmt-stats --commit
 ----------------------------------
-Fri   [█████░░░░░░░░░░] 6 commits
 Sat   [███████████████] 17 commits
 Sun   [███████████░░░░] 12 commits
 Mon   [█████░░░░░░░░░░] 6 commits
 Tue   [█████░░░░░░░░░░] 6 commits
 Wed   [██████░░░░░░░░░] 7 commits
-Thu   [██████░░░░░░░░░] 7 commits
+Thu   [████████░░░░░░░] 9 commits
+Fri   [░░░░░░░░░░░░░░░] 0 commits
 
-Total: 2,917 commits in last year
+Total: 2,919 commits in last year
 ----------------------------------
 ```
 
