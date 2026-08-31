@@ -14,7 +14,7 @@
 $ aadnanmt-stats --profile
 ----------------------------------
 FOLLOWERS: 94
-STREAK: 148 days
+STREAK: 149 days
 ----------------------------------
 
 $ aadnanmt-stats --codebase
@@ -44,9 +44,9 @@ Thu   [███████████████] 9 commits
 Fri   [███████░░░░░░░░] 4 commits
 Sat   [███████░░░░░░░░] 4 commits
 Sun   [███████░░░░░░░░] 4 commits
-Mon   [░░░░░░░░░░░░░░░] 0 commits
+Mon   [███░░░░░░░░░░░░] 2 commits
 
-Total: 2,921 commits in last year
+Total: 2,923 commits in last year
 ----------------------------------
 ```
 
