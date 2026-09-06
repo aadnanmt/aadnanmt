@@ -7,7 +7,7 @@
 - **Backend** `TS (Hono)` `Python (FastAPI)`
 - **Databases** `PostgreSQL` `SQLite` `Redis`
 - **System** `Arch (Niri)` `Fish/Bash` `Kitty`
-- **Tooling** `Neovim` `Git` `Podman` `Deno` `NodeJS(pnpm)` `Wrangler`
+- **Tooling** `Neovim` `Git` `Podman` `Deno` `NodeJS(pnpm)`
 
 ### Dev activity [ ■_■ ]
 
@@ -15,8 +15,8 @@
 $ aadnanmt-stats --languages
 ----------------------------------
 JavaScript [███████░░░░░░░░░░░░░] 34.8%
-CSS        [█████░░░░░░░░░░░░░░░] 24.8%
-Shell      [███░░░░░░░░░░░░░░░░░] 13.9%
+CSS        [█████░░░░░░░░░░░░░░░] 24.7%
+Shell      [███░░░░░░░░░░░░░░░░░] 13.8%
 SCSS       [██░░░░░░░░░░░░░░░░░░] 8.2%
 Astro      [█░░░░░░░░░░░░░░░░░░░] 7.4%
 HTML       [█░░░░░░░░░░░░░░░░░░░] 7.0%
@@ -31,9 +31,9 @@ Wed   [███████░░░░░░░░] 13 commits
 Thu   [█████████░░░░░░] 16 commits
 Fri   [██░░░░░░░░░░░░░] 4 commits
 Sat   [███████████████] 28 commits
-Sun   [█████░░░░░░░░░░] 10 commits
+Sun   [████████████░░░] 22 commits
 
-Total: 3,021 commits in last year
+Total: 3,033 commits in last year
 ----------------------------------
 ```
 
