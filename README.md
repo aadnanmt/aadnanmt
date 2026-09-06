@@ -1,4 +1,4 @@
-# 18 y/o dev & tech minimalist [⌐■_■]
+## 18 y/o dev & tech minimalist [⌐■_■]
 
 > Building high-performance edge ecosystems at
 > [`nanoolabs`](https://github.com/nanoolabs).
@@ -7,47 +7,33 @@
 - **Backend** `TS (Hono)` `Python (FastAPI)`
 - **Databases** `PostgreSQL` `SQLite` `Redis`
 - **System** `Arch (Niri)` `Fish/Bash` `Kitty`
-- **Tooling** `Neovim` `Git` `Podman` `Bun/Pnpm` `Wrangler`
+- **Tooling** `Neovim` `Git` `Podman` `Deno` `NodeJS(pnpm)` `Wrangler`
 
 ### Dev activity [ ■_■ ]
 
 ```bash
-$ aadnanmt-stats --profile
-----------------------------------
-FOLLOWERS: 91
-STREAK: 154 days
-----------------------------------
-
-$ aadnanmt-stats --codebase
-----------------------------------
-REPOS: 41 (include private repo personal & org)
-VOLUME: 193.72 MB
-LICENSE: MIT
-----------------------------------
-
 $ aadnanmt-stats --languages
 ----------------------------------
-JavaScript [███████░░░░░░░░░░░░░] 34.5%
-CSS        [█████░░░░░░░░░░░░░░░] 24.5%
-Shell      [███░░░░░░░░░░░░░░░░░] 13.7%
-SCSS       [██░░░░░░░░░░░░░░░░░░] 8.1%
-Astro      [█░░░░░░░░░░░░░░░░░░░] 7.3%
-HTML       [█░░░░░░░░░░░░░░░░░░░] 6.9%
-TypeScript [█░░░░░░░░░░░░░░░░░░░] 3.8%
-Markdown   [░░░░░░░░░░░░░░░░░░░░] 1.1%
+JavaScript [███████░░░░░░░░░░░░░] 34.8%
+CSS        [█████░░░░░░░░░░░░░░░] 24.8%
+Shell      [███░░░░░░░░░░░░░░░░░] 13.9%
+SCSS       [██░░░░░░░░░░░░░░░░░░] 8.2%
+Astro      [█░░░░░░░░░░░░░░░░░░░] 7.4%
+HTML       [█░░░░░░░░░░░░░░░░░░░] 7.0%
+TypeScript [█░░░░░░░░░░░░░░░░░░░] 3.9%
 ----------------------------------
 
 $ aadnanmt-stats --commit
 ----------------------------------
-Sun   [██░░░░░░░░░░░░░] 4 commits
 Mon   [██░░░░░░░░░░░░░] 4 commits
-Tue   [███████████████] 25 commits
-Wed   [████████░░░░░░░] 13 commits
-Thu   [██████████░░░░░] 16 commits
+Tue   [██████████████░] 25 commits
+Wed   [███████░░░░░░░░] 13 commits
+Thu   [█████████░░░░░░] 16 commits
 Fri   [██░░░░░░░░░░░░░] 4 commits
-Sat   [███████████████] 25 commits
+Sat   [███████████████] 27 commits
+Sun   [██░░░░░░░░░░░░░] 3 commits
 
-Total: 3,008 commits in last year
+Total: 3,013 commits in last year
 ----------------------------------
 ```
 
@@ -59,6 +45,6 @@ Principles: Performance, zero-bloat, and scalable architecture.
 ### Connect with me [ ▰_▰ ]
 
 [Twitter](https://x.com/aadnanmt) / [Instagram](https://instagram.com/aadnanmt)
-/ [Telegram](https://t.me/adnanbuilds) / [Email](mailto:adnan@nanoolabs.dev)
+/ [Telegram](https://t.me/nan_simple) / [Email](mailto:adnan@nanoolabs.dev)
 
-<p align="right"><small>Auto-sync 12h via Bun/TypeScript. No commit farming. Check this repository: <a href="https://github.com/aadnanmt/readmeSync">readmeSync</a></small></p>
+<p align="right"><small>Auto-sync 12h via Deno/TypeScript. No commit farming. Check this repository: <a href="https://github.com/aadnanmt/readmeSync">readmeSync</a></small></p>
