@@ -25,15 +25,15 @@ TypeScript [█░░░░░░░░░░░░░░░░░░░] 4.0%
 
 $ aadnanmt-stats --commit
 ----------------------------------
-Mon   [██░░░░░░░░░░░░░] 4 commits
 Tue   [█████████████░░] 25 commits
 Wed   [███████░░░░░░░░] 13 commits
 Thu   [█████████░░░░░░] 16 commits
 Fri   [██░░░░░░░░░░░░░] 4 commits
 Sat   [███████████████] 28 commits
-Sun   [█████████████░░] 24 commits
+Sun   [██████████████░] 26 commits
+Mon   [█░░░░░░░░░░░░░░] 2 commits
 
-Total: 3,035 commits in last year
+Total: 3,039 commits in last year
 ----------------------------------
 ```
 
@@ -47,4 +47,4 @@ Principles: Performance, zero-bloat, and scalable architecture.
 [Twitter](https://x.com/aadnanmt) / [Instagram](https://instagram.com/aadnanmt)
 / [Telegram](https://t.me/nan_simple) / [Email](mailto:adnan@nanoolabs.dev)
 
-<p align="right"><small>Auto-sync 12h via Deno/TypeScript. No commit farming. Check this repository: <a href="https://github.com/aadnanmt/readmeSync">readmeSync</a></small></p>
+<p align="right"><small>Auto-sync 12h via Deno/TypeScript. No commit farming. Check this repository: <a href="https://github.com/aadnanmt/meesync">meesync</a></small></p>
