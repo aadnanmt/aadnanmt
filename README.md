@@ -1,11 +1,11 @@
-## 18 y/o dev & tech minimalist [⌐■_■]
+## 18 y/o minimalist dev & tech nerd [⌐■_■]
 
 > Building high-performance edge ecosystems at [`nanoolabs`](https://github.com/nanoolabs).
 
 I build small, fast, static-first tools and run them on the edge. If it can be static, it ships
 static. Stay simple for now, use or mix it with other tools if needed.
 
-**Now:** Development feature SVG output/section for [meesync](https://github.com/aadnanmt/meesync).
+**Now:** Development Nanoo Apps Monorepo (Private repo on Nanoo Labs).
 
 ### Current Stack [ █_▀ ]
 
@@ -20,26 +20,26 @@ static. Stay simple for now, use or mix it with other tools if needed.
 ```bash
 $ aadnanmt-stats --languages
 ----------------------------------
-JavaScript [███████░░░░░░░░░░░░░] 34.5%
-CSS        [█████░░░░░░░░░░░░░░░] 24.9%
+JavaScript [███████░░░░░░░░░░░░░] 34.6%
+CSS        [█████░░░░░░░░░░░░░░░] 25.0%
 Shell      [███░░░░░░░░░░░░░░░░░] 14.1%
 SCSS       [██░░░░░░░░░░░░░░░░░░] 8.1%
 Astro      [█░░░░░░░░░░░░░░░░░░░] 7.1%
 HTML       [█░░░░░░░░░░░░░░░░░░░] 6.9%
-TypeScript [█░░░░░░░░░░░░░░░░░░░] 4.4%
+TypeScript [█░░░░░░░░░░░░░░░░░░░] 4.1%
 ----------------------------------
 
 $ aadnanmt-stats --commit
 ----------------------------------
-Mon   [██░░░░░░░░░░░░░] 4 commits
-Tue   [██░░░░░░░░░░░░░] 5 commits
-Wed   [██░░░░░░░░░░░░░] 4 commits
-Thu   [██░░░░░░░░░░░░░] 5 commits
-Fri   [██████████░░░░░] 23 commits
-Sat   [████████████░░░] 28 commits
-Sun   [███████████████] 36 commits
+Tuesday   [██░░░░░░░░░░░░░] 5 commits
+Wednesday [█░░░░░░░░░░░░░░] 4 commits
+Thursday  [██░░░░░░░░░░░░░] 5 commits
+Friday    [███████░░░░░░░░] 23 commits
+Saturday  [█████████░░░░░░] 28 commits
+Sunday    [███████████████] 47 commits
+Monday    [█░░░░░░░░░░░░░░] 3 commits
 
-Total: 3,337 commits in last year
+Total: 3,354 commits in last year
 ----------------------------------
 ```
 
