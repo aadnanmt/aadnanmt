@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="652" viewBox="0 0 560 652" role="img" aria-label="GitHub stats">
+<style>
+  :root { --fg:#1f2328; --muted:#656d76; --card:#f6f8fa; --track:#d0d7de; --line:#d0d7de; --accent:#0969da }
+  @media (prefers-color-scheme: dark) {
+    :root { --fg:#e6edf3; --muted:#8b949e; --card:#161b22; --track:#30363d; --line:#30363d; --accent:#2f81f7 }
+  }
+  svg { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 13px }
+  rect.box { fill: var(--card); stroke: var(--line) }
+  rect.track { fill: var(--track) }
+  rect.fill { fill: var(--accent) }
+  text { fill: var(--fg) }
+  text.m { fill: var(--muted) }
+  text.big { font-size: 20px; font-weight: 600 }
+  text.lbl, text.sec { font-size: 10px; letter-spacing: 1px; fill: var(--muted) }
+</style>
+<rect class="box" x="0" y="0" width="131" height="72" rx="10"/>
+<text class="big" x="16" y="38">85</text>
+<text class="lbl" x="16" y="56">FOLLOWERS</text>
+<rect class="box" x="143" y="0" width="131" height="72" rx="10"/>
+<text class="big" x="159" y="38">183</text>
+<text class="lbl" x="159" y="56">DAY STREAK</text>
+<rect class="box" x="286" y="0" width="131" height="72" rx="10"/>
+<text class="big" x="302" y="38">44</text>
+<text class="lbl" x="302" y="56">REPOS</text>
+<rect class="box" x="429" y="0" width="131" height="72" rx="10"/>
+<text class="big" x="445" y="38">3,321</text>
+<text class="lbl" x="445" y="56">COMMITS/YEAR</text>
+<rect class="box" x="0" y="84" width="274" height="72" rx="10"/>
+<text class="big" x="16" y="122">MIT</text>
+<text class="lbl" x="16" y="140">TOP LICENSE</text>
+<rect class="box" x="286" y="84" width="274" height="72" rx="10"/>
+<text class="big" x="302" y="122">319.27 MB</text>
+<text class="lbl" x="302" y="140">REPO SIZE</text>
+<rect class="box" x="0" y="168" width="560" height="218" rx="10"/>
+<text class="sec" x="16" y="196">COMMITS · LAST 7 DAYS</text>
+<text x="16" y="226">Mon</text>
+<rect class="track" x="140" y="215" width="300" height="12" rx="3"/>
+<rect class="fill" x="140" y="215" width="43" height="12" rx="3"/>
+<text class="m" x="544" y="226" text-anchor="end">4 commits</text>
+<text x="16" y="250">Tue</text>
+<rect class="track" x="140" y="239" width="300" height="12" rx="3"/>
+<rect class="fill" x="140" y="239" width="54" height="12" rx="3"/>
+<text class="m" x="544" y="250" text-anchor="end">5 commits</text>
+<text x="16" y="274">Wed</text>
+<rect class="track" x="140" y="263" width="300" height="12" rx="3"/>
+<rect class="fill" x="140" y="263" width="43" height="12" rx="3"/>
+<text class="m" x="544" y="274" text-anchor="end">4 commits</text>
+<text x="16" y="298">Thu</text>
+<rect class="track" x="140" y="287" width="300" height="12" rx="3"/>
+<rect class="fill" x="140" y="287" width="54" height="12" rx="3"/>
+<text class="m" x="544" y="298" text-anchor="end">5 commits</text>
+<text x="16" y="322">Fri</text>
+<rect class="track" x="140" y="311" width="300" height="12" rx="3"/>
+<rect class="fill" x="140" y="311" width="246" height="12" rx="3"/>
+<text class="m" x="544" y="322" text-anchor="end">23 commits</text>
+<text x="16" y="346">Sat</text>
+<rect class="track" x="140" y="335" width="300" height="12" rx="3"/>
+<rect class="fill" x="140" y="335" width="300" height="12" rx="3"/>
+<text class="m" x="544" y="346" text-anchor="end">28 commits</text>
+<text x="16" y="370">Sun</text>
+<rect class="track" x="140" y="359" width="300" height="12" rx="3"/>
+<rect class="fill" x="140" y="359" width="279" height="12" rx="3"/>
+<text class="m" x="544" y="370" text-anchor="end">26 commits</text>
+<rect class="box" x="0" y="398" width="560" height="254" rx="10"/>
+<text class="sec" x="16" y="426">LANGUAGES</text>
+<text x="16" y="456">JavaScript</text>
+<rect class="track" x="140" y="445" width="300" height="12" rx="3"/>
+<rect style="fill:#f1e05a" x="140" y="445" width="104" height="12" rx="3"/>
+<text class="m" x="544" y="456" text-anchor="end">34.7%</text>
+<text x="16" y="486">CSS</text>
+<rect class="track" x="140" y="475" width="300" height="12" rx="3"/>
+<rect style="fill:#663399" x="140" y="475" width="75" height="12" rx="3"/>
+<text class="m" x="544" y="486" text-anchor="end">25.0%</text>
+<text x="16" y="516">Shell</text>
+<rect class="track" x="140" y="505" width="300" height="12" rx="3"/>
+<rect style="fill:#89e051" x="140" y="505" width="42" height="12" rx="3"/>
+<text class="m" x="544" y="516" text-anchor="end">14.1%</text>
+<text x="16" y="546">SCSS</text>
+<rect class="track" x="140" y="535" width="300" height="12" rx="3"/>
+<rect style="fill:#c6538c" x="140" y="535" width="24" height="12" rx="3"/>
+<text class="m" x="544" y="546" text-anchor="end">8.1%</text>
+<text x="16" y="576">Astro</text>
+<rect class="track" x="140" y="565" width="300" height="12" rx="3"/>
+<rect style="fill:#ff5a03" x="140" y="565" width="21" height="12" rx="3"/>
+<text class="m" x="544" y="576" text-anchor="end">7.1%</text>
+<text x="16" y="606">HTML</text>
+<rect class="track" x="140" y="595" width="300" height="12" rx="3"/>
+<rect style="fill:#e34c26" x="140" y="595" width="21" height="12" rx="3"/>
+<text class="m" x="544" y="606" text-anchor="end">6.9%</text>
+<text x="16" y="636">TypeScript</text>
+<rect class="track" x="140" y="625" width="300" height="12" rx="3"/>
+<rect style="fill:#3178c6" x="140" y="625" width="12" height="12" rx="3"/>
+<text class="m" x="544" y="636" text-anchor="end">4.1%</text>
+</svg>
