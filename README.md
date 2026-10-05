@@ -9,7 +9,7 @@ static. Stay simple for now, use or mix it with other tools if needed.
 
 ### Current Stack [ █_▀ ]
 
-- **Frontend** `TS/JS (Astro)` `HTML` `CSS (Tailwind/UnoCSS)`
+- **Frontend** `TS/JS (Astro)` `CSS (Tailwind/UnoCSS)`
 - **Backend** `TS (Hono)`
 - **Databases** `SQLite (libSQL)` `Redis`
 - **System** `Arch (Niri)` `Fish/Bash` `Kitty`
@@ -31,15 +31,15 @@ TypeScript [█░░░░░░░░░░░░░░░░░░░] 4.1%
 
 $ aadnanmt-stats --commit
 ----------------------------------
-Tuesday   [██░░░░░░░░░░░░░] 5 commits
 Wednesday [█░░░░░░░░░░░░░░] 4 commits
 Thursday  [██░░░░░░░░░░░░░] 5 commits
 Friday    [███████░░░░░░░░] 23 commits
 Saturday  [█████████░░░░░░] 29 commits
 Sunday    [███████████████] 49 commits
-Monday    [███░░░░░░░░░░░░] 10 commits
+Monday    [████░░░░░░░░░░░] 14 commits
+Tuesday   [░░░░░░░░░░░░░░░] 0 commits
 
-Total: 3,364 commits in last year
+Total: 3,368 commits in last year
 ----------------------------------
 ```
 
