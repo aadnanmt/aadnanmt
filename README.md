@@ -20,13 +20,13 @@ static. Stay simple for now, use or mix it with other tools if needed.
 ```bash
 $ aadnanmt-stats --languages
 ----------------------------------
-JavaScript [███████░░░░░░░░░░░░░] 34.7%
-CSS        [█████░░░░░░░░░░░░░░░] 25.0%
+JavaScript [███████░░░░░░░░░░░░░] 34.5%
+CSS        [█████░░░░░░░░░░░░░░░] 24.9%
 Shell      [███░░░░░░░░░░░░░░░░░] 14.1%
 SCSS       [██░░░░░░░░░░░░░░░░░░] 8.1%
-Astro      [█░░░░░░░░░░░░░░░░░░░] 7.1%
+Astro      [█░░░░░░░░░░░░░░░░░░░] 7.3%
 HTML       [█░░░░░░░░░░░░░░░░░░░] 6.9%
-TypeScript [█░░░░░░░░░░░░░░░░░░░] 4.1%
+TypeScript [█░░░░░░░░░░░░░░░░░░░] 4.2%
 ----------------------------------
 
 $ aadnanmt-stats --commit
@@ -36,10 +36,10 @@ Thursday  [██░░░░░░░░░░░░░] 5 commits
 Friday    [███████░░░░░░░░] 23 commits
 Saturday  [█████████░░░░░░] 29 commits
 Sunday    [███████████████] 49 commits
-Monday    [████░░░░░░░░░░░] 14 commits
-Tuesday   [░░░░░░░░░░░░░░░] 0 commits
+Monday    [█████░░░░░░░░░░] 15 commits
+Tuesday   [███░░░░░░░░░░░░] 9 commits
 
-Total: 3,368 commits in last year
+Total: 3,378 commits in last year
 ----------------------------------
 ```
 

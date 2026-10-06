@@ -1,39 +1,39 @@
 {
-	"updatedAt": "2026-10-05T23:10:07.893Z",
-	"totalCommits": 3368,
-	"totalFollowers": 85,
-	"streak": 184,
-	"repoCount": 44,
-	"totalDiskUsage": 327501,
-	"mainLicense": "MIT",
-	"languages": [
-		{
-			"name": "JavaScript",
-			"percentage": "34.7"
-		},
-		{
-			"name": "CSS",
-			"percentage": "25.0"
-		},
-		{
-			"name": "Shell",
-			"percentage": "14.1"
-		},
-		{
-			"name": "SCSS",
-			"percentage": "8.1"
-		},
-		{
-			"name": "Astro",
-			"percentage": "7.1"
-		},
-		{
-			"name": "HTML",
-			"percentage": "6.9"
-		},
-		{
-			"name": "TypeScript",
-			"percentage": "4.1"
-		}
-	]
+  "updatedAt": "2026-10-06T12:02:51.006Z",
+  "totalCommits": 3378,
+  "totalFollowers": 86,
+  "streak": 185,
+  "repoCount": 44,
+  "totalDiskUsage": 328023,
+  "mainLicense": "MIT",
+  "languages": [
+    {
+      "name": "JavaScript",
+      "percentage": "34.5"
+    },
+    {
+      "name": "CSS",
+      "percentage": "24.9"
+    },
+    {
+      "name": "Shell",
+      "percentage": "14.1"
+    },
+    {
+      "name": "SCSS",
+      "percentage": "8.1"
+    },
+    {
+      "name": "Astro",
+      "percentage": "7.3"
+    },
+    {
+      "name": "HTML",
+      "percentage": "6.9"
+    },
+    {
+      "name": "TypeScript",
+      "percentage": "4.2"
+    }
+  ]
 }
