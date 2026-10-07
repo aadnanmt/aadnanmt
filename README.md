@@ -20,9 +20,9 @@ static. Stay simple for now, use or mix it with other tools if needed.
 ```bash
 $ aadnanmt-stats --languages
 ----------------------------------
-JavaScript [███████░░░░░░░░░░░░░] 34.5%
+JavaScript [███████░░░░░░░░░░░░░] 34.7%
 CSS        [█████░░░░░░░░░░░░░░░] 24.9%
-Shell      [███░░░░░░░░░░░░░░░░░] 14.1%
+Shell      [███░░░░░░░░░░░░░░░░░] 14.0%
 SCSS       [██░░░░░░░░░░░░░░░░░░] 8.1%
 Astro      [█░░░░░░░░░░░░░░░░░░░] 7.3%
 HTML       [█░░░░░░░░░░░░░░░░░░░] 6.9%
@@ -31,15 +31,15 @@ TypeScript [█░░░░░░░░░░░░░░░░░░░] 4.2%
 
 $ aadnanmt-stats --commit
 ----------------------------------
-Thursday  [██░░░░░░░░░░░░░] 5 commits
 Friday    [███████░░░░░░░░] 23 commits
 Saturday  [█████████░░░░░░] 29 commits
 Sunday    [███████████████] 49 commits
 Monday    [█████░░░░░░░░░░] 15 commits
 Tuesday   [███░░░░░░░░░░░░] 11 commits
-Wednesday [░░░░░░░░░░░░░░░] 1 commits
+Wednesday [██░░░░░░░░░░░░░] 5 commits
+Thursday  [██░░░░░░░░░░░░░] 5 commits
 
-Total: 3,381 commits in last year
+Total: 3,390 commits in last year
 ----------------------------------
 ```
 
