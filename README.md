@@ -21,25 +21,25 @@ static. Stay simple for now, use or mix it with other tools if needed.
 $ aadnanmt-stats --languages
 ----------------------------------
 JavaScript [███████░░░░░░░░░░░░░] 34.8%
-CSS        [█████░░░░░░░░░░░░░░░] 24.8%
+CSS        [█████░░░░░░░░░░░░░░░] 24.7%
 Shell      [███░░░░░░░░░░░░░░░░░] 14.0%
-SCSS       [██░░░░░░░░░░░░░░░░░░] 8.1%
+SCSS       [██░░░░░░░░░░░░░░░░░░] 8.0%
 Astro      [█░░░░░░░░░░░░░░░░░░░] 7.3%
-HTML       [█░░░░░░░░░░░░░░░░░░░] 6.9%
-TypeScript [█░░░░░░░░░░░░░░░░░░░] 4.2%
+HTML       [█░░░░░░░░░░░░░░░░░░░] 6.8%
+TypeScript [█░░░░░░░░░░░░░░░░░░░] 4.4%
 ----------------------------------
 
 $ aadnanmt-stats --commit
 ----------------------------------
-Monday    [███████████████] 15 commits
-Tuesday   [███████████░░░░] 11 commits
-Wednesday [██████░░░░░░░░░] 6 commits
-Thursday  [███████████░░░░] 11 commits
+Tuesday   [█████████████░░] 11 commits
+Wednesday [███████░░░░░░░░] 6 commits
+Thursday  [█████████████░░] 11 commits
 Friday    [██░░░░░░░░░░░░░] 2 commits
-Saturday  [█████████████░░] 13 commits
-Sunday    [█████░░░░░░░░░░] 5 commits
+Saturday  [███████████████] 13 commits
+Sunday    [███████████████] 13 commits
+Monday    [░░░░░░░░░░░░░░░] 0 commits
 
-Total: 3,417 commits in last year
+Total: 3,403 commits in last year
 ----------------------------------
 ```
 
