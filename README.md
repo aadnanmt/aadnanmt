@@ -5,7 +5,7 @@
 I build small, fast, static-first tools and run them on the edge. If it can be static, it ships
 static. Stay simple for now, use or mix it with other tools if needed.
 
-**Now:** Development Nanoo Apps Monorepo (Private repo on Nanoo Labs).
+**Now:** Development @nlbs/og preset package (wrapped astro-og-canvas).
 
 ### Current Stack [ █_▀ ]
 
@@ -20,8 +20,8 @@ static. Stay simple for now, use or mix it with other tools if needed.
 ```bash
 $ aadnanmt-stats --languages
 ----------------------------------
-JavaScript [███████░░░░░░░░░░░░░] 34.7%
-CSS        [█████░░░░░░░░░░░░░░░] 24.9%
+JavaScript [███████░░░░░░░░░░░░░] 34.8%
+CSS        [█████░░░░░░░░░░░░░░░] 24.8%
 Shell      [███░░░░░░░░░░░░░░░░░] 14.0%
 SCSS       [██░░░░░░░░░░░░░░░░░░] 8.1%
 Astro      [█░░░░░░░░░░░░░░░░░░░] 7.3%
@@ -36,10 +36,10 @@ Tuesday   [███████████░░░░] 11 commits
 Wednesday [██████░░░░░░░░░] 6 commits
 Thursday  [███████████░░░░] 11 commits
 Friday    [██░░░░░░░░░░░░░] 2 commits
-Saturday  [██████░░░░░░░░░] 6 commits
-Sunday    [░░░░░░░░░░░░░░░] 0 commits
+Saturday  [█████████████░░] 13 commits
+Sunday    [█████░░░░░░░░░░] 5 commits
 
-Total: 3,405 commits in last year
+Total: 3,417 commits in last year
 ----------------------------------
 ```
 
