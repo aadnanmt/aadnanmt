@@ -31,15 +31,15 @@ TypeScript [█░░░░░░░░░░░░░░░░░░░] 4.5%
 
 $ aadnanmt-stats --commit
 ----------------------------------
-Thursday  [████░░░░░░░░░░░] 2 commits
-Friday    [████░░░░░░░░░░░] 2 commits
-Saturday  [███████████████] 8 commits
-Sunday    [████░░░░░░░░░░░] 2 commits
-Monday    [████░░░░░░░░░░░] 2 commits
-Tuesday   [████████░░░░░░░] 4 commits
-Wednesday [██░░░░░░░░░░░░░] 1 commits
+Thursday  [█░░░░░░░░░░░░░░] 2 commits
+Friday    [█░░░░░░░░░░░░░░] 2 commits
+Saturday  [█████░░░░░░░░░░] 8 commits
+Sunday    [█░░░░░░░░░░░░░░] 2 commits
+Monday    [█░░░░░░░░░░░░░░] 2 commits
+Tuesday   [███░░░░░░░░░░░░] 5 commits
+Wednesday [███████████████] 24 commits
 
-Total: 3,512 commits in last year
+Total: 3,536 commits in last year
 ----------------------------------
 ```
 
