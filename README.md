@@ -21,7 +21,7 @@ static. Stay simple for now, use or mix it with other tools if needed.
 $ aadnanmt-stats --languages
 ----------------------------------
 JavaScript [███████░░░░░░░░░░░░░] 34.8%
-CSS        [█████░░░░░░░░░░░░░░░] 24.6%
+CSS        [█████░░░░░░░░░░░░░░░] 24.7%
 Shell      [███░░░░░░░░░░░░░░░░░] 14.0%
 SCSS       [██░░░░░░░░░░░░░░░░░░] 8.0%
 Astro      [█░░░░░░░░░░░░░░░░░░░] 7.1%
@@ -36,10 +36,10 @@ Sunday    [█░░░░░░░░░░░░░░] 2 commits
 Monday    [█░░░░░░░░░░░░░░] 2 commits
 Tuesday   [██░░░░░░░░░░░░░] 5 commits
 Wednesday [███████████████] 31 commits
-Thursday  [█████░░░░░░░░░░] 11 commits
-Friday    [█░░░░░░░░░░░░░░] 3 commits
+Thursday  [██████░░░░░░░░░] 12 commits
+Friday    [███░░░░░░░░░░░░] 7 commits
 
-Total: 3,557 commits in last year
+Total: 3,562 commits in last year
 ----------------------------------
 ```
 
