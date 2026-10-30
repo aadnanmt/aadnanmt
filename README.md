@@ -5,7 +5,7 @@
 I build small, fast, static-first tools and run them on the edge. If it can be static, it ships
 static. Stay simple for now, use or mix it with other tools if needed.
 
-**Now:** Development @nlbs/og preset package (wrapped astro-og-canvas).
+**Now:** i drowning again, i messed it up again, exhausted again
 
 ### Current Stack [ █_▀ ]
 
@@ -31,15 +31,15 @@ TypeScript [█░░░░░░░░░░░░░░░░░░░] 4.7%
 
 $ aadnanmt-stats --commit
 ----------------------------------
-Saturday  [████░░░░░░░░░░░] 8 commits
 Sunday    [█░░░░░░░░░░░░░░] 2 commits
 Monday    [█░░░░░░░░░░░░░░] 2 commits
 Tuesday   [██░░░░░░░░░░░░░] 5 commits
 Wednesday [███████████████] 31 commits
 Thursday  [██████░░░░░░░░░] 12 commits
-Friday    [███░░░░░░░░░░░░] 7 commits
+Friday    [████░░░░░░░░░░░] 9 commits
+Saturday  [░░░░░░░░░░░░░░░] 0 commits
 
-Total: 3,562 commits in last year
+Total: 3,564 commits in last year
 ----------------------------------
 ```
 
