@@ -26,7 +26,7 @@ Shell      [███░░░░░░░░░░░░░░░░░] 14.1%
 SCSS       [██░░░░░░░░░░░░░░░░░░] 8.0%
 Astro      [█░░░░░░░░░░░░░░░░░░░] 7.0%
 HTML       [█░░░░░░░░░░░░░░░░░░░] 6.8%
-TypeScript [█░░░░░░░░░░░░░░░░░░░] 4.4%
+TypeScript [█░░░░░░░░░░░░░░░░░░░] 4.5%
 ----------------------------------
 
 $ aadnanmt-stats --commit
@@ -36,10 +36,10 @@ Thursday  [██████░░░░░░░░░] 12 commits
 Friday    [█████░░░░░░░░░░] 11 commits
 Saturday  [█████░░░░░░░░░░] 10 commits
 Sunday    [████████░░░░░░░] 17 commits
-Monday    [░░░░░░░░░░░░░░░] 1 commits
-Tuesday   [░░░░░░░░░░░░░░░] 0 commits
+Monday    [█░░░░░░░░░░░░░░] 2 commits
+Tuesday   [███░░░░░░░░░░░░] 7 commits
 
-Total: 3,592 commits in last year
+Total: 3,600 commits in last year
 ----------------------------------
 ```
 
