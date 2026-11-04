@@ -2,8 +2,8 @@
 
 > Building high-performance edge ecosystems at [`nanoolabs`](https://github.com/nanoolabs).
 
-I build small, fast, static-first tools and run them on the edge. If it can be static, it ships
-static. Stay simple for now, use or mix it with other tools if needed.
+_I build small, fast, static-first tools and run them on the edge. If it can be static, it ships
+static. Stay simple for now, use or mix it with other tools if needed._
 
 **Now:** i drowning again, i messed it up again, exhausted again
 
@@ -31,29 +31,29 @@ TypeScript [█░░░░░░░░░░░░░░░░░░░] 4.5%
 
 $ aadnanmt-stats --commit
 ----------------------------------
-Thursday  [███████████░░░░] 12 commits
 Friday    [██████████░░░░░] 11 commits
 Saturday  [█████████░░░░░░] 10 commits
 Sunday    [███████████████] 17 commits
 Monday    [██░░░░░░░░░░░░░] 2 commits
 Tuesday   [████████░░░░░░░] 9 commits
-Wednesday [░░░░░░░░░░░░░░░] 0 commits
+Wednesday [████░░░░░░░░░░░] 4 commits
+Thursday  [░░░░░░░░░░░░░░░] 0 commits
 
-Total: 3,602 commits in last year
+Total: 3,606 commits in last year
 ----------------------------------
 ```
 
 ### Garden / Lab [ ▰_▰ ]
 
-[Digital Garden](https://me.nanoolabs.dev): notes & write-ups from my life\
-[Laboratory](https://github.com/nanoolabs): experiments and infra repos\
-[Nanoo Labs](https://nanoolabs.dev): the lab, on the web
+- **[Digital Garden](https://me.nanoolabs.dev):** notes & write-ups from my life
+- **[Laboratory](https://github.com/nanoolabs):** experiments and infra repos
+- **[Nanoo Labs](https://nanoolabs.dev):** the lab, on the web
 
 ### Connect with me [ >■< ]
 
-[Codeberg](https://codeberg.org/aadnanmt): code & mirrors\
-[Telegram](https://t.me/adnnmt): fast direct messages\
-[Email](mailto:adnan@nanoolabs.dev): anything for long-form
+- **[Codeberg](https://codeberg.org/aadnanmt):** code & mirrors
+- **[Telegram](https://t.me/adnnmt):** fast direct messages
+- **[Email](mailto:adnan@nanoolabs.dev):** anything for long-form
 
-Auto-sync 12h via Deno/TypeScript. No commit farming. Check this repository:
-[meesync](https://github.com/aadnanmt/meesync)
+> Auto-sync 12h via Deno/TypeScript. No commit farming. Check this repository:
+> [aadnanmt/meesync](https://github.com/aadnanmt/meesync)
