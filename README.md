@@ -36,10 +36,10 @@ Tuesday   [████████░░░░░░░] 3 commits
 Wednesday [█████░░░░░░░░░░] 2 commits
 Thursday  [███████████████] 6 commits
 Friday    [█████░░░░░░░░░░] 2 commits
-Saturday  [███░░░░░░░░░░░░] 1 commits
+Saturday  [█████░░░░░░░░░░] 2 commits
 Sunday    [░░░░░░░░░░░░░░░] 0 commits
 
-Total: 3,661 commits in last year
+Total: 3,662 commits in last year
 ----------------------------------
 ```
 
